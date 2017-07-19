@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{AE647F27-BBA2-41AA-AE8F-1227E6C6871C}") = "MindWave", "Assembly-CSharp-firstpass.csproj", "{0AECDD4A-9641-D2A3-B8B6-98914F411E9D}"
+EndProject
+Project("{AE647F27-BBA2-41AA-AE8F-1227E6C6871C}") = "MindWave", "Assembly-CSharp.csproj", "{CA1EA528-6078-F692-6024-460914F2FE5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AECDD4A-9641-D2A3-B8B6-98914F411E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AECDD4A-9641-D2A3-B8B6-98914F411E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AECDD4A-9641-D2A3-B8B6-98914F411E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AECDD4A-9641-D2A3-B8B6-98914F411E9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA1EA528-6078-F692-6024-460914F2FE5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA1EA528-6078-F692-6024-460914F2FE5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA1EA528-6078-F692-6024-460914F2FE5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA1EA528-6078-F692-6024-460914F2FE5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
